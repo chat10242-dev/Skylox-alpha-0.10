@@ -11,7 +11,7 @@ Questa è la **versione Alpha 0.10**, una build dimostrativa delle fondamenta de
 - **Multiplayer P2P (Host / Join)**
 - **Share Play con input remoto**
 - **Pseudo‑multiplayer avanzato**
-  - Editor ruoli (Leon/Grace, Peter/Miles, ecc.)
+  - Editor ruoli
   - Editor input per Player 2
   - Editor abilità
   - Modalità spettatore
@@ -31,7 +31,6 @@ Skylox permette di giocare in coppia anche nei giochi **single‑player**, grazi
 - Ruoli configurabili
 - Abilità separate
 - Modalità spettatore
-- Assistente IA
 
 Il pseudo‑multiplayer **non modifica i giochi**: li rende cooperativi tramite input condivisi.
 
